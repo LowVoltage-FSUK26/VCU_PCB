@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=GND Pin=K1-A2
+Removed Pin From Net: NetName=VCC12V Pin=K1-COM
+Removed Pin From Net: NetName=CFM Pin=K1-NO
+Removed Pin From Net: NetName=GND Pin=K2-A2
+Removed Pin From Net: NetName=VCC12V Pin=K2-COM
+Removed Pin From Net: NetName=CFB Pin=K2-NO
+Removed Pin From Net: NetName=GND Pin=K3-A2
+Removed Pin From Net: NetName=VCC12V Pin=K3-COM
+Removed Pin From Net: NetName=BL Pin=K3-NO
+Removed Member From Class: ClassName=VCU_Schematic Member=K1
+Removed Member From Class: ClassName=VCU_Schematic Member=K2
+Removed Member From Class: ClassName=VCU_Schematic Member=K3
+Change Component Comment : Designator=OC4 Old Comment=PC814 New Comment=PC817
+Change Component Description : Designator=F1 Old Description=2-Pin Radial Fuse New Description=2-Pin Radial Fuse | Rectangular | Slow Blow | UL | 315mA
+Change Component Description : Designator=VCC3V3 Old Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT New Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT | TE Connectivity 3-644456-2
+Change Component Description : Designator=VCC5V Old Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT New Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT | TE Connectivity 3-644456-2
+Change Component Description : Designator=Q1 Old Description=RoHS Compliant New Description=RoHS Compliant | Low RDS(on) | Industry-leading quality | Dynamic dv/dt Rating | Fast Switching | Fully Avalanche Rated | 175C Operating Temperature | P-Channel MOSFET
+Change Component Description : Designator=Q? Old Description=RoHS Compliant New Description=RoHS Compliant | Low RDS(on) | Industry-leading quality | Dynamic dv/dt Rating | Fast Switching | Fully Avalanche Rated | 175C Operating Temperature | P-Channel MOSFET
+Change Component Description : Designator=VR1 Old Description=Trimmer, Cermet, Rest 10 Kilohms, PCB, 25 Turns, Pwr-Rtg 0.5W, 3296 Series New Description=Trimmer, Cermet, Rest 10 Kilohms, PCB, 25 Turns, Pwr-Rtg 0.5W, 3296 Series | Bourns 3296W-1-103LF
+Change Component Kind : Designator=PW Old Kind=Jumper New Kind=Standard
+Added Pin To Net: NetName=CFM Pin=D10-C
+Added Pin To Net: NetName=CFB Pin=D11-C
+Added Pin To Net: NetName=BL Pin=D12-C
+Added Pin To Net: NetName=CFM Pin=OC1-3
+Added Pin To Net: NetName=CFB Pin=OC2-3
+Added Pin To Net: NetName=BL Pin=OC3-3
+Added Member To Class: ClassName=VCU_Schematic Member=Component R28 220R

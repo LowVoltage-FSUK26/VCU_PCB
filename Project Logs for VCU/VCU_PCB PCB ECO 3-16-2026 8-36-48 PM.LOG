@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=PUPM_PWM Pin=J10-21
+Removed Pin From Net: NetName=BL Pin=J10-22
+Removed Pin From Net: NetName=CFB Pin=J10-23
+Removed Pin From Net: NetName=GND Pin=J10-24
+Removed Pin From Net: NetName=CFM Pin=J10-25
+Removed Pin From Net: NetName=DC_IN_12V Pin=J10-26
+Added Pin To Net: NetName=BL Pin=J10-21
+Added Pin To Net: NetName=CFB Pin=J10-22
+Added Pin To Net: NetName=GND Pin=J10-23
+Added Pin To Net: NetName=CFM Pin=J10-24
+Added Pin To Net: NetName=DC_IN_12V Pin=J10-25
+Added Pin To Net: NetName=PUPM_PWM Pin=J10-26
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 220R

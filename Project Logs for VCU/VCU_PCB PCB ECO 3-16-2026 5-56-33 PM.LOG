@@ -1,0 +1,76 @@
+Removed Pin From Net: NetName=GND Pin=OC?-2
+Removed Pin From Net: NetName=DTI_RTD Pin=OC?-3
+Removed Pin From Net: NetName=VCC12V Pin=OC?-4
+Removed Pin From Net: NetName=GND Pin=R28-2
+Removed Pin From Net: NetName=GND Pin=R29-2
+Removed Member From Class: ClassName=VCU_Schematic Member=OC?
+Removed Member From Class: ClassName=VCU_Schematic Member=R27
+Removed Member From Class: ClassName=VCU_Schematic Member=R28
+Added Component: Designator=PW(SAMTEC_HMTSW-101-X-X-S-X)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/HMTSW-101-07-G-S-230/Samtec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "HMTSW-101-07-G-S-230"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/HMTSW-101-07-G-S-230/Samtec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found SAMTEC_TLW-103-05-G-S
+Added Component: Designator=Q?(TRANS_IRF4905STRRPBF)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/IRF4905STRRPBF/Infineon+Technologies/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IRF4905STRRPBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "D2PAK Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/IRF4905STRRPBF/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IRF4905STRRPBF/Infineon+Technologies/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0805)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0805)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0805)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC3V3 Pin=PW-01
+Add Pin To Net: Unknown Pin: Pin PWM-01
+Add Pin To Net: Unknown Pin: Pin PWM-03
+Added Pin To Net: NetName=VCC12V Pin=R29-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=ST_PUMP Pin=R?-1
+Added Pin To Net: NetName=DTI_RTD Pin=U3-28
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=R?-2
+Added Net: Name=NetQ?_1
+Added Pin To Net: NetName=PUPM_PWM Pin=Q?-2
+Added Pin To Net: NetName=PUPM_PWM Pin=R?-2
+Added Net: Name=PUPM_PWM
+Added Pin To Net: NetName=VCC Pin=Q?-3
+Added Pin To Net: NetName=VCC Pin=R?-2
+Added Net: Name=VCC
+Added Member To Class: ClassName=VCU_Schematic Member=Component PW HMTSW-101-X-X-S-X
+Add Class Member: Failed to add class member : Component PWM TLW-103-05-G-S
+Added Member To Class: ClassName=VCU_Schematic Member=Component Q? IRF4905STRRPBF
+Added Member To Class: ClassName=VCU_Schematic Member=Component R15 20K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R16 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 220R
+Added Member To Class: ClassName=VCU_Schematic Member=Component STL TSW-104-06-L-S
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5
+Added Rule: Name=Schematic Supply Nets_6
+Added Rule: Name=Schematic Supply Nets_7
+Added Rule: Name=Schematic Supply Nets_8

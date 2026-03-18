@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=BL Pin=J10-21
+Removed Pin From Net: NetName=GND Pin=J10-22
+Added Pin To Net: NetName=PUPM_PWM Pin=J10-21
+Added Pin To Net: NetName=BL Pin=J10-22
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 220R

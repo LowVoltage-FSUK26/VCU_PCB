@@ -1,0 +1,101 @@
+Removed Pin From Net: NetName=VCC5V Pin=3-2
+Removed Pin From Net: NetName=DTI_RTD Pin=3-3
+Removed Pin From Net: NetName=ST_APPS1 Pin=BUF1-1
+Removed Pin From Net: NetName=ST_APPS1 Pin=BUF1-2
+Removed Pin From Net: NetName=APPS1 Pin=BUF1-3
+Removed Pin From Net: NetName=APPS2 Pin=BUF2-3
+Removed Pin From Net: NetName=BPS Pin=BUF3-3
+Removed Pin From Net: NetName=GND Pin=Q?-2
+Removed Pin From Net: NetName=GND Pin=R15-2
+Removed Pin From Net: NetName=ST_APPS1 Pin=R16-2
+Removed Pin From Net: NetName=ST_APPS2 Pin=R18-2
+Removed Pin From Net: NetName=ST_BPS Pin=R20-2
+Removed Pin From Net: NetName=VCC5V Pin=R29-1
+Removed Pin From Net: NetName=VCC3V3 Pin=STL-1
+Removed Pin From Net: NetName=ST_SWCLK Pin=STL-2
+Removed Pin From Net: NetName=ST_SWDIO Pin=STL-3
+Removed Pin From Net: NetName=GND Pin=STL-4
+Removed Pin From Net: NetName=ST_CFM Pin=U3-42
+Removed Pin From Net: NetName=ST_CFB Pin=U3-43
+Removed Member From Class: ClassName=VCU_Schematic Member=3
+Removed Member From Class: ClassName=VCU_Schematic Member=Q?
+Change Component Comment : Designator=OC4 Old Comment=PC817X1NIP1B New Comment=PC814
+Change Component Comment : Designator=OC1 Old Comment=PC817X1NIP1B New Comment=PC817
+Change Component Comment : Designator=OC2 Old Comment=PC817X1NIP1B New Comment=PC817
+Change Component Comment : Designator=OC3 Old Comment=PC817X1NIP1B New Comment=PC817
+Change Component Description : Designator=F1 Old Description=2-Pin Radial Fuse New Description=2-Pin Radial Fuse | Rectangular | Slow Blow | UL | 315mA
+Change Component Description : Designator=VCC3V3 Old Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT New Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT | TE Connectivity 3-644456-2
+Change Component Description : Designator=VCC5V Old Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT New Description=HEADER ASSEMBLY, NARROW, MTA-100, 2 POSITION, STRAIGHT | TE Connectivity 3-644456-2
+Change Component Description : Designator=Q1 Old Description=RoHS Compliant New Description=RoHS Compliant | Low RDS(on) | Industry-leading quality | Dynamic dv/dt Rating | Fast Switching | Fully Avalanche Rated | 175C Operating Temperature | P-Channel MOSFET
+Change Component Description : Designator=VR1 Old Description=Trimmer, Cermet, Rest 10 Kilohms, PCB, 25 Turns, Pwr-Rtg 0.5W, 3296 Series New Description=Trimmer, Cermet, Rest 10 Kilohms, PCB, 25 Turns, Pwr-Rtg 0.5W, 3296 Series | Bourns 3296W-1-103LF
+Add component: Footprint Not Found SOIC254P960X420-4N
+Add component: Footprint Not Found RES_0805
+Add component: Footprint Not Found RES_0805
+Add component: Footprint Not Found SAMTEC_TSW-104-06-L-S
+Add Pin To Net: Unknown Pin: Pin OC?-2
+Add Pin To Net: Unknown Pin: Pin OC?-3
+Add Pin To Net: Unknown Pin: Pin OC?-4
+Added Pin To Net: NetName=ST_APPS1 Pin=R11-2
+Added Pin To Net: NetName=ST_APPS2 Pin=R12-2
+Added Pin To Net: NetName=ST_BPS Pin=R13-2
+Add Pin To Net: Unknown Pin: Pin R15-2
+Add Pin To Net: Unknown Pin: Pin R16-2
+Added Pin To Net: NetName=APPS2 Pin=R18-2
+Added Pin To Net: NetName=BPS Pin=R20-2
+Added Pin To Net: NetName=DTI_RTD Pin=R29-1
+Added Pin To Net: NetName=GND Pin=R29-2
+Add Pin To Net: Unknown Pin: Pin STL-01
+Add Pin To Net: Unknown Pin: Pin STL-02
+Add Pin To Net: Unknown Pin: Pin STL-03
+Add Pin To Net: Unknown Pin: Pin STL-04
+Added Pin To Net: NetName=ST_CFB Pin=U3-21
+Added Pin To Net: NetName=ST_CFM Pin=U3-22
+Added Pin To Net: NetName=NetBUF1_1 Pin=BUF1-1
+Added Pin To Net: NetName=NetBUF1_1 Pin=BUF1-2
+Added Net: Name=NetBUF1_1
+Added Pin To Net: NetName=NetBUF1_3 Pin=BUF1-3
+Added Net: Name=NetBUF1_3
+Added Pin To Net: NetName=NetBUF2_3 Pin=BUF2-3
+Added Pin To Net: NetName=NetBUF2_3 Pin=R17-1
+Added Pin To Net: NetName=NetBUF2_3 Pin=R18-1
+Added Net: Name=NetBUF2_3
+Added Pin To Net: NetName=NetBUF3_3 Pin=BUF3-3
+Added Pin To Net: NetName=NetBUF3_3 Pin=R19-1
+Added Pin To Net: NetName=NetBUF3_3 Pin=R20-1
+Added Net: Name=NetBUF3_3
+Added Pin To Net: NetName=NetOC?_1 Pin=R27-2
+Added Pin To Net: NetName=NetOC?_1 Pin=R28-1
+Added Net: Name=NetOC?_1
+Added Pin To Net: NetName=ST_PUMP Pin=U3-42
+Added Net: Name=ST_PUMP
+Added Member To Class: ClassName=VCU_Schematic Member=Component C3 22nF
+Added Member To Class: ClassName=VCU_Schematic Member=Component C4 22uF
+Added Member To Class: ClassName=VCU_Schematic Member=Component C7 2.2uF
+Added Member To Class: ClassName=VCU_Schematic Member=Component C9 100nF
+Added Member To Class: ClassName=VCU_Schematic Member=Component C10 100nF
+Added Member To Class: ClassName=VCU_Schematic Member=Component C11 100nF
+Added Member To Class: ClassName=VCU_Schematic Member=Component C13 100nF
+Added Member To Class: ClassName=VCU_Schematic Member=Component C14 2.2uF
+Added Member To Class: ClassName=VCU_Schematic Member=Component C16 100nF
+Added Member To Class: ClassName=VCU_Schematic Member=Component C17 100nF
+Added Member To Class: ClassName=VCU_Schematic Member=Component C20 20pF
+Added Member To Class: ClassName=VCU_Schematic Member=Component D6 BLUE
+Added Member To Class: ClassName=VCU_Schematic Member=Component D7 BLUE
+Added Member To Class: ClassName=VCU_Schematic Member=Component D9 BLUE
+Added Member To Class: ClassName=VCU_Schematic Member=Component D10 SS34-A
+Added Member To Class: ClassName=VCU_Schematic Member=Component D12 SS34-A
+Add Class Member: Failed to add class member : Component OC? PC817
+Added Member To Class: ClassName=VCU_Schematic Member=Component R4 1.5K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R5 1.5K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R7 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R8 1K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R9 220R
+Added Member To Class: ClassName=VCU_Schematic Member=Component R10 220R
+Added Member To Class: ClassName=VCU_Schematic Member=Component R28 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R31 100K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R32 100K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R35 39K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R40 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R45 20K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R46 14K
+Add Class Member: Failed to add class member : Component STL TSW-104-06-L-S

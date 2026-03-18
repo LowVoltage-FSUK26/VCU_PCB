@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=ST_APPS1 Pin=BUF1-1
+Added Pin To Net: NetName=ST_APPS1 Pin=BUF1-2
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 10K
+Added Member To Class: ClassName=VCU_Schematic Member=Component R? 220R
